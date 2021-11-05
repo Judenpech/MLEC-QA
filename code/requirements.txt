@@ -1,0 +1,8 @@
+numpy
+json
+elasticsearch>=7.12.0
+tqdm
+torch>=1.0
+argparse
+six>=1.12.0
+packaging
